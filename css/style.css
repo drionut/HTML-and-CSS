@@ -1,1 +1,17 @@
+/* CSS comment */
+
 h3 {color: purple; text-align: center;}
+p {
+    color: black;
+    background: GhostWhite;
+    font-style: normal;
+    text-align: center;
+}
+.quote {
+    background-color: AliceBlue;
+    color: blue;
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: small;
+    text-align: right;
+}
