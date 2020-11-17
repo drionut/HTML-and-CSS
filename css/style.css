@@ -1,0 +1,46 @@
+/* CSS comment */
+
+h3 {color: purple; text-align: center;}
+p {
+    color: black;
+    background: GhostWhite;
+    font-style: normal;
+    text-align: center;
+}
+.quote {
+    background-color: AliceBlue;
+    color: blue;
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: small;
+    text-align: right;
+}
+
+/* table style */
+.search_engines {
+    width: 800px;
+    text-align: center;
+    border: 1px solid silver;
+}
+.search_engines td:hover {
+        background-color: yellow;
+        color: black;
+}
+.search_engines tr, th {
+    background-color: black;
+    color: cornsilk;
+}
+.search_engines tr, td {
+    background-color: darkgreen;
+    color: white;
+}
+
+ol {
+    list-style-type: upper-roman;
+}
+ul {
+    list-style-type: square;
+}
+.challenge_3 {
+    text-shadow: 1px -1px #ff0000
+}
