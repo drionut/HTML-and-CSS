@@ -16,7 +16,21 @@ p {
     text-align: right;
 }
 
+/* table style */
 .search_engines {
     width: 800px;
     text-align: center;
+    border: 1px solid silver;
+}
+.search_engines td:hover {
+        background-color: yellow;
+        color: black;
+}
+.search_engines tr, th {
+    background-color: black;
+    color: cornsilk;
+}
+.search_engines tr, td {
+    background-color: darkgreen;
+    color: white;
 }
